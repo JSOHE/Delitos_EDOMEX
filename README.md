@@ -36,3 +36,9 @@ Contiene información más detallada de los delitos, incluyendo forma y elemento
   
 # Lenguajes
 Para usar entender esto se usarán los lenguajes de Python y R
+
+
+# Elabora 
+|Integrante|User github|Correo|
+|:--:|:--:|:--:|
+|Juan Carlos Soto Hernández|[JSOHE]|jcsh1103@gmail.com|
